@@ -1,2 +1,2 @@
-# my-assets-repo
-this is my assets repo
+# free-cdn-assets
+this is my assets repo with free cdn
